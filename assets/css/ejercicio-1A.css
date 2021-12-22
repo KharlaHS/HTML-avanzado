@@ -1,0 +1,61 @@
+.caja {
+    background-color: green;
+    width: 350px;
+    height: 350px;
+    border: 10px solid rgb(150, 190, 228);
+    border-radius: 15px;
+    color: white;
+    padding: 50px;
+}
+
+
+#nombre {
+    margin: 3px;
+    border: 2px solid red;
+    margin-left: 20px;
+    width: 250px;
+    
+}
+
+#correo {
+    margin: 3px;
+    border: 2px solid red;
+    margin-left: 34px;
+    width: 250px;
+}
+
+#telefono {
+    margin: 3px;
+    border: 2px solid red;
+    margin-left: 15px;
+    width: 250px;
+}
+
+#pais {
+    margin: 3px;
+    border: 2px solid red;
+    margin-left: 45px;
+    width: 250px;
+}
+
+#numero {
+    margin: 3px;
+    border: 2px solid red;
+    margin-left: 21px;
+    width: 250px;
+}
+
+#tarjeta {
+    margin: 3px;
+    border: 2px solid red;
+    margin-left: 21px;
+    width: 250px;
+}
+
+.linea {
+    margin: 30px;
+    border-top: 1px dashed white;
+    margin-left: 1px;
+    width: 180px;
+    
+}
