@@ -1,0 +1,37 @@
+.caja {
+    background-color: rgb(77, 207, 186);
+    width: 800px;
+    height: 250px;
+}
+
+.titulo {
+    text-align: center;
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+    width: 650px;
+}
+.rojo {
+    color: red;
+}
+
+.g {
+    font-family: cursive;
+}
+
+.f {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.naranja {
+    background-color: rgb(248, 91, 34);
+}
+
+.negro {
+    background-color: black;
+}
+
+.amarillo {
+    background-color: yellowgreen;
+}
